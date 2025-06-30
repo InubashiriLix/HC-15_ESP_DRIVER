@@ -1,0 +1,6 @@
+KEY:
+    HIGH -> sending
+    LOW -> command
+STA:
+    HIGH -> available
+    LOW -> buzy
